@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title></title>
+<head></head>
   
 </head>
 <body>
