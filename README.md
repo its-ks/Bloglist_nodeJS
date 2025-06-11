@@ -4,39 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Bloglist NodeJS Project</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      margin: 2rem;
-      max-width: 800px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #1a73e8;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 1rem;
-      border-left: 5px solid #ccc;
-      overflow-x: auto;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    ul {
-      margin-left: 1.5rem;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  
 </head>
 <body>
 
